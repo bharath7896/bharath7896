@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bharadwaj 
-- 👀 I’m interested in : Natual Language Processing , Data Science , Computer Vision
-- 🌱 I’m currently learning : Deep Reinforcement Learning , AI cognitive Decision Making 
-- 💞️ I’m looking to collaborate on : AI projects that can be useful for everyone
+- 👀 I’m interested in : Solving pressing problems  
+- 💞️ I’d love to add value or collaborate for : Projects or solutions that serve a greater purpose
 - 📫 How to reach me : chivukulabharadwaj7@gmail.com
 
 <!---
